@@ -102,6 +102,7 @@ The cleaned CSV file is saved to the disk with a unique filename.
   Category ID,Parent ID,Category Name
   
     1,              0,      Used
+  
     2,              1,      Refurbished
 
 ## Error Handling
