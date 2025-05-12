@@ -98,7 +98,9 @@ The cleaned CSV file is saved to the disk with a unique filename.
     ✅ Category tree saved to 'category_tree_1234-5678-90ab.csv'.
 
 - The CSV file will have the structure:
-    Category ID,Parent ID,Category Name
+
+  Category ID,Parent ID,Category Name
+  
     1,              0,      Used
     2,              1,      Refurbished
 
